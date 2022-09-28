@@ -7,6 +7,8 @@ Contenido
  1. Presentación del curso.
  2. Antecedentes de la robótica.
  3. Intruducción al curso.
+ 
+ Clases:
 
 Enlace clase 1 semestre 2022-2
  
