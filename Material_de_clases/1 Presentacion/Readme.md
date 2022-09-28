@@ -8,7 +8,7 @@ Contenido clase 1
  2. Antecedentes de la robótica.
  3. Intruducción al curso.
  
- 
+ [![Alt text](https://img.youtube.com/vi/_UVYZR9X658/0.jpg)](https://www.youtube.com/watch?v=_UVYZR9X658)
 
 
 Todos los derechos reservados, Facultad de Ingeniería de la Universidad Nacional Autónoma de México © 2020. Quedan estrictamente prohibidos su uso fuera del ámbito académico, alteración, descarga o divulgación por cualquier medio, así como su reproducción parcial o total.
