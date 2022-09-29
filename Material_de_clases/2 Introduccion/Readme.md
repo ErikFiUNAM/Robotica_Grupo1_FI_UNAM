@@ -1,6 +1,6 @@
 # Tema 2. Introducción
 
-En esta carpeta se encuentran las presentaciones y los enlaces a los vídeos relacionados con el prime tema del curso, el cual es la introducción al curso en general, la cual corresponde de la clase 1 a la clase 3.
+En esta carpeta se encuentran las presentaciones y los enlaces a los vídeos relacionados con el prime tema del curso, el cual es la introducción al curso en general, la cual corresponde de la clase 4 a la clase 11.
 
 Contenido
 
