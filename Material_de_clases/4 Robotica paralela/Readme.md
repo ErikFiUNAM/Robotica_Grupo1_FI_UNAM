@@ -21,7 +21,8 @@ Contenido
 # Enlace clase 27 semestre 2022-2
  [![Alt text](https://img.youtube.com/vi/mQaLmb1K_oY/0.jpg)](https://www.youtube.com/watch?v=mQaLmb1K_oY)
 
-
+# Enlace clase 28 semestre 2022-2
+ [![Alt text](https://img.youtube.com/vi/IJhrMpqAdUM/0.jpg)](https://www.youtube.com/watch?v=IJhrMpqAdUM)
  
  
  Todos los derechos reservados, Facultad de Ingeniería de la Universidad Nacional Autónoma de México © 2020. Quedan estrictamente prohibidos su uso fuera del ámbito académico, alteración, descarga o divulgación por cualquier medio, así como su reproducción parcial o total.
