@@ -47,11 +47,22 @@ Clases:
 # Enlace clase 15 semestre 2023-1
  [![Alt text](https://img.youtube.com/vi/nMB5xtZV4NQ/0.jpg)](https://www.youtube.com/watch?v=nMB5xtZV4NQ)
  
+# Enlace clase 16 semestre 2022-2
+ [![Alt text](https://img.youtube.com/vi/oki8N2Qbjh8/0.jpg)](https://www.youtube.com/watch?v=oki8N2Qbjh8)
+# Enlace clase 16 semestre 2023-1
+ [![Alt text](https://img.youtube.com/vi/wMg6K-b28oMQ/0.jpg)](https://www.youtube.com/watch?v=wMg6K-b28oM)
  
- 
+# Enlace clase 17 semestre 2022-2
+
+# Enlace clase 17 semestre 2023-1
+ [![Alt text](https://img.youtube.com/vi/vHyh5J9jF7c/0.jpg)](https://www.youtube.com/watch?v=vHyh5J9jF7c)
  
 
-
+# Enlace clase 18 semestre 2022-2
+ [![Alt text](https://img.youtube.com/vi/k8FGfWyu4yI/0.jpg)](https://www.youtube.com/watch?v=k8FGfWyu4yI)
+# Enlace clase 18 semestre 2023-1
+ [![Alt text](https://img.youtube.com/vi/F-LoDkBk80g/0.jpg)](https://www.youtube.com/watch?v=F-LoDkBk80g)
+ 
 
 Todos los derechos reservados, Facultad de Ingeniería de la Universidad Nacional Autónoma de México © 2020. Quedan estrictamente prohibidos su uso fuera del ámbito académico, alteración, descarga o divulgación por cualquier medio, así como su reproducción parcial o total.
-![image](https://user-images.githubusercontent.com/74385040/193143709-ea0807fa-2fab-4862-ad9d-253fe4331599.png)
+
