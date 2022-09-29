@@ -50,7 +50,7 @@ Clases:
 # Enlace clase 16 semestre 2022-2
  [![Alt text](https://img.youtube.com/vi/oki8N2Qbjh8/0.jpg)](https://www.youtube.com/watch?v=oki8N2Qbjh8)
 # Enlace clase 16 semestre 2023-1
- [![Alt text](https://img.youtube.com/vi/wMg6K-b28oMQ/0.jpg)](https://www.youtube.com/watch?v=wMg6K-b28oM)
+ [![Alt text](https://img.youtube.com/vi//0.jpg)](https:/wMg6K-b28oM/www.youtube.com/watch?v=wMg6K-b28oM)
  
 # Enlace clase 17 semestre 2022-2
 
