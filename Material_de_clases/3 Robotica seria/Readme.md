@@ -63,6 +63,32 @@ Clases:
 # Enlace clase 18 semestre 2023-1
  [![Alt text](https://img.youtube.com/vi/F-LoDkBk80g/0.jpg)](https://www.youtube.com/watch?v=F-LoDkBk80g)
  
+# Enlace clase 19 semestre 2022-2
+ [![Alt text](https://img.youtube.com/vi/tJgGadqX7cI/0.jpg)](https://www.youtube.com/watch?v=tJgGadqX7cI)
+# Enlace clase 19 semestre 2023-1
+ 
+
+# Enlace clase 20 semestre 2022-2
+ [![Alt text](https://img.youtube.com/vi/lFJkp1o7q8w/0.jpg)](https://www.youtube.com/watch?v=lFJkp1o7q8w)
+# Enlace clase 20 semestre 2023-1
+
+# Enlace clase 21 semestre 2022-2
+ [![Alt text](https://img.youtube.com/vi/jKCd-9m9Sjc/0.jpg)](https://www.youtube.com/watch?v=jKCd-9m9Sjc)
+# Enlace clase 21 semestre 2023-1
+
+# Enlace clase 22 semestre 2022-2
+ [![Alt text](https://img.youtube.com/vi/VK94R4iGwqI/0.jpg)](https://www.youtube.com/watch?v=VK94R4iGwqI)
+# Enlace clase 22 semestre 2023-1
+
+# Enlace clase 23 semestre 2022-2
+
+# Enlace clase 23 semestre 2023-1
+
+# Enlace clase 24 semestre 2022-2
+ [![Alt text](https://img.youtube.com/vi/CqXV27hbdl0/0.jpg)](https://www.youtube.com/watch?v=CqXV27hbdl0)
+# Enlace clase 24 semestre 2023-1
+
+
 
 Todos los derechos reservados, Facultad de Ingeniería de la Universidad Nacional Autónoma de México © 2020. Quedan estrictamente prohibidos su uso fuera del ámbito académico, alteración, descarga o divulgación por cualquier medio, así como su reproducción parcial o total.
 
