@@ -9,13 +9,6 @@ En este repositorio se encontraran los archivos utilizados y generados para las 
 | **Facultad de Ingeniería** | UNAM |
 
 
-## Contenido
-
-- [Objetivo](#objetivo)
-- [Introduccion](#introduccion)
-- [Desarrollo](#desarrollo)
-- [Autor](#autor)
-- [Referencias](#referencias)
 
 ## Objetivo
 
@@ -35,3 +28,4 @@ Los archivos relacionados se encuentran en las carpetas correspondientes.
 
 M.I. Erik Peña Medina
 
+Todos los derechos reservados, Facultad de Ingeniería de la Universidad Nacional Autónoma de México © 2020. Quedan estrictamente prohibidos su uso fuera del ámbito académico, alteración, descarga o divulgación por cualquier medio, así como su reproducción parcial o total.
