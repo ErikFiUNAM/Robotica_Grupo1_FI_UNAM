@@ -5,6 +5,7 @@ El material de clase que contiene esta parte contiene en cada carpeta:
 - Presentación de la clase correspondiente.
 - Enlace a vídeos en youtube del semestre correspondiente.
 
+El material anterior se encuentran las carpetas correspondientes de este repositorio.
 
 ## Autor
 
