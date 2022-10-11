@@ -64,6 +64,9 @@ Clases:
 # Enlace clase 18 semestre 2023-1
  [![Alt text](https://img.youtube.com/vi/F-LoDkBk80g/0.jpg)](https://www.youtube.com/watch?v=F-LoDkBk80g)
  
+ # Enlace clase 18 semestre 2023-1 (Repaso)
+ [![Alt text](https://img.youtube.com/vi/6AHRj49oFg8/0.jpg)](https://www.youtube.com/watch?v=6AHRj49oFg8)
+ 
 # Enlace clase 19 semestre 2022-2
  [![Alt text](https://img.youtube.com/vi/tJgGadqX7cI/0.jpg)](https://www.youtube.com/watch?v=tJgGadqX7cI)
 # Enlace clase 19 semestre 2023-1
